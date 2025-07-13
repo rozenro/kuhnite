@@ -167,6 +167,9 @@ function App() {
                     <label className="block text-sm font-medium text-gray-700 mb-1">
                       Имейл
                     </label>
+                    <p className="bg-blue-50 border border-blue-200 text-blue-800 text-xs font-semibold p-2 rounded-md mb-2">
+                      /препоръчително, ако качвате файл/
+                    </p>
                     <input
                       type="email"
                       value={formData.email}
