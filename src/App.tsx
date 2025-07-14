@@ -165,7 +165,7 @@ function App() {
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Имейл <span className="text-blue-800 text-xs font-normal">/препоръчително, ако качвате файл към запитването/</span>
+                      Имейл <span className="text-blue-800 text-xs font-normal">/препоръчително, и ако качвате файл към запитването/</span>
                     </label>
                     <input
                       type="email"
