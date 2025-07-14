@@ -165,7 +165,7 @@ function App() {
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Имейл <span className="bg-blue-50 border border-blue-200 text-blue-800 text-xs font-semibold px-2 py-1 rounded-md">/препоръчително, ако качвате файл към запитването/</span>
+                      Имейл <span className="bg-blue-50 border border-blue-200 text-blue-800 text-xs font-semibold px-2 py-1 rounded-md">препоръчително, и ако качвате файл</span>
                     </label>
                     <input
                       type="email"
@@ -199,7 +199,7 @@ function App() {
                     ></textarea>
                   </div>
                   <p className="bg-blue-50 border border-blue-200 text-blue-800 text-sm font-semibold p-3 rounded-md text-center">
-                    СЛЕД ИЗПРАЩАНЕТО, МОЖЕ ДА КАЧИТЕ ФАЙЛ.
+                    СЛЕД ИЗПРАЩАНЕТО, МОЖЕ ДА КАЧИТЕ ФАЙЛ
                   </p>
                   <button
                     type="submit"
