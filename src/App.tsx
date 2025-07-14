@@ -168,7 +168,7 @@ function App() {
                       Имейл
                     </label>
                     <p className="bg-blue-50 border border-blue-200 text-blue-800 text-xs font-semibold p-2 rounded-md mb-2">
-                      /препоръчително, ако качвате файл/
+                      /препоръчително, ако качвате файл към запитването/
                     </p>
                     <input
                       type="email"
